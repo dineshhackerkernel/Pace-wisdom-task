@@ -1,0 +1,32 @@
+	
+Functionalities completed
+
+Admin Module : 
+1. Admin Login Controller
+2. Admin Reset Password Controller
+3. Admin Forgot Password Controller
+
+* Admin Login Page Design
+* Admin Register Page Design
+* Admin Forgot Password Page Design
+* Admin Reset Password Design
+
+Sub Admin Module : 
+
+1. Sub Admin Login Controller
+2. Sub Admin Reset Password Controller
+3. Admin Forgot Password Controller
+4. Sub Admin Register Controller
+
+* Sub Admin Login Page Design
+* Sub Admin Register Page Design
+* Sub Admin Forgot Password Page Design
+* Sub Admin Reset Password Design
+
+
+******    Toastr implemented - Brian2694 Toastr   *******
+*******   complete admin panel with basic forms,  datatables dashboard.
+
+Copyright @ Designed and Developed by Anjan Thapa 
+
+
